@@ -13,9 +13,6 @@ Our target is categorical value to determine whether the patience have heartDise
 
 HeartDisease risk increases as age increases from 50 to 60.
 
-![RestingBP](https://user-images.githubusercontent.com/79428800/186811687-bfbc7c1d-781e-439b-9e1e-f761f14b82be.png)
-
-
 
 ![Cholesterol](https://user-images.githubusercontent.com/79428800/186811637-b33a5e50-cb3a-43a7-ab13-935751a5eb5f.png)
 
