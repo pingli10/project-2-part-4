@@ -18,6 +18,7 @@ HeartDisease risk increases as age increases from 50 to 60.
 
 
 ![Cholesterol](https://user-images.githubusercontent.com/79428800/186811637-b33a5e50-cb3a-43a7-ab13-935751a5eb5f.png)
+
 the value of 200 and 0 is good for non-heartDisease but others.
 
 ![MaxHR](https://user-images.githubusercontent.com/79428800/186811664-19c42755-6fc6-48f9-8c91-87dec7f269ce.png)
