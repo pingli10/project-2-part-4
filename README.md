@@ -34,4 +34,5 @@ Oldpeak and heartdisease have postive relationship, old peak rate increases and 
 
 
 # Model:
-KNN has best performance in this data set because False Negtive is more problematic in the data set, which knn reduces false negtive rate in order to get treatment for real patiences. 
+knn and Random Forest both give the result with acuracy 88 percentage, and both no big differences. However our false Negtive value (true heart disease)is more problemetic;KNN has best performance in this data set because False Negtive is more problematic in the data set, which knn reduces false negtive rate in order to get treatment for real patiences. 
+
