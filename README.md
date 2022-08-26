@@ -9,6 +9,7 @@ Our target is categorical value to determine whether the patience have heartDise
 
 # Results:
 
+![age](https://user-images.githubusercontent.com/79428800/186811573-8c95a056-2b87-4912-bcfb-d07f6bf2e371.png)
 
 
 
