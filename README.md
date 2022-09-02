@@ -15,6 +15,7 @@ Our target is categorical value to determine whether the patience have heartDise
 1.heart disease risk increases as age increase especially from the age between 55 to 60
 
 
+
 ![sex](https://user-images.githubusercontent.com/79428800/188196346-71da5ab9-ef9a-420b-88af-6fe4868bd884.png)
 
 ![sexpief](https://user-images.githubusercontent.com/79428800/188196357-a597f26f-967d-4a7e-95e7-21ee8a4f6041.png)
@@ -22,6 +23,7 @@ Our target is categorical value to determine whether the patience have heartDise
 ![sexpiemale](https://user-images.githubusercontent.com/79428800/188196368-ed905111-378c-4d43-8a33-f204b7736b78.png)
 
 2.Male is mainly affected by heart disease;63 percent of heart disease patients are male, and 26 percent of heart disease patients are female.
+
 
 
 ![chestpaintype](https://user-images.githubusercontent.com/79428800/188196639-4b3bdfa4-1505-4edf-a068-9b55dd15e8e0.png)
@@ -32,9 +34,11 @@ Our target is categorical value to determine whether the patience have heartDise
 80 percent of ASY chest pain patients have heart disease.
 
 
+
 ![cholesterol](https://user-images.githubusercontent.com/79428800/188196458-76780bdf-9625-4b3c-821b-07616ac58cfb.png)
 
 4.Cholesterol having a value near 200 is good for the heart otherwise low and high cholesterol can cause heart disease.
+
 
 
 ![fastingbs](https://user-images.githubusercontent.com/79428800/188197236-a56397c5-bd52-40a8-aa40-dd979ee09d93.png)
@@ -46,6 +50,7 @@ Our target is categorical value to determine whether the patience have heartDise
 5.80 percent of  (1) fastingbs patients have heart disease.
 
 
+
 ![restingECG](https://user-images.githubusercontent.com/79428800/188200263-b68c3e53-eade-4f06-ae5f-c96836254fdb.png)
 
 ![RestingECG_LVH](https://user-images.githubusercontent.com/79428800/188200283-1a45a7fa-cf59-46c4-a41e-f04f9bf721f8.png)
@@ -55,23 +60,27 @@ Our target is categorical value to determine whether the patience have heartDise
 6.For RestingECG is ST there's a 66% chance of heart disease.
 
 
+
+![maxhr](https://user-images.githubusercontent.com/79428800/188197500-3aa76b48-dfb1-4eb5-9c7d-eb21910c2d4e.png)
+
+7. Higher value of MaxHR shows sign of healthy heart.
+
+
+
 ![exerciseangina](https://user-images.githubusercontent.com/79428800/188200427-9bae6cd0-a69d-4805-844c-a2feee0cbed0.png)
 
 ![ExerciseAngina_N](https://user-images.githubusercontent.com/79428800/188200446-496948f2-868e-43ab-84c5-03576e66a11c.png)
 
 ![ExerciseAngina_Y](https://user-images.githubusercontent.com/79428800/188200466-d2d5fff2-d292-4de2-a0dc-8207b34e3d55.png)
 
-7.85 percent of (Y) exerciseangina patients have heart disease
+8.85 percent of (Y) exerciseangina patients have heart disease
 
-
-![maxhr](https://user-images.githubusercontent.com/79428800/188197500-3aa76b48-dfb1-4eb5-9c7d-eb21910c2d4e.png)
-
-8. Higher value of MaxHR shows sign of healthy heart.
 
 
 ![oldpeak](https://user-images.githubusercontent.com/79428800/188198331-23854b70-8934-4cda-bb59-735b3cece611.png)
 
 9.Oldpeak and heart disease have a positive relationship; as old peak value increases, and heart disease incidence increases.
+
 
 
 ![st_slope](https://user-images.githubusercontent.com/79428800/188200585-01a7783c-bcc5-48e0-91a3-ef321d08248d.png)
