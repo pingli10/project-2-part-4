@@ -12,7 +12,7 @@ Our target is categorical value to determine whether the patience have heartDise
 ![age (1)](https://user-images.githubusercontent.com/79428800/188195630-e39b7325-012d-4341-b4a0-c2073e638f4e.png)
 
 
-1.heart disease risk increases as age increase especially from the age between 55 to 60
+(Age)1.heart disease risk increases as age increase especially from the age between 55 to 60
 
 
 
@@ -22,7 +22,7 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![sexpiemale](https://user-images.githubusercontent.com/79428800/188196368-ed905111-378c-4d43-8a33-f204b7736b78.png)
 
-2.Male is mainly affected by heart disease;63 percent of heart disease patients are male, and 26 percent of heart disease patients are female.
+(Sex)2.Male is mainly affected by heart disease;63 percent of heart disease patients are male, and 26 percent of heart disease patients are female.
 
 
 
@@ -30,14 +30,14 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![ChestPainType_ASY](https://user-images.githubusercontent.com/79428800/188196684-33be1701-a3e3-44e8-a75e-b11b9ab517b3.png)
 
-3. Patients have asy chest pain and most likely have heart disease.
+(chestpaintype)3. Patients have asy chest pain and most likely have heart disease.
 80 percent of ASY chest pain patients have heart disease.
 
 
 
 ![cholesterol](https://user-images.githubusercontent.com/79428800/188196458-76780bdf-9625-4b3c-821b-07616ac58cfb.png)
 
-4.Cholesterol having a value near 200 is good for the heart otherwise low and high cholesterol can cause heart disease.
+(cholesterol)4.Cholesterol having a value near 200 is good for the heart otherwise low and high cholesterol can cause heart disease.
 
 
 
@@ -47,7 +47,7 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![fastingbs1](https://user-images.githubusercontent.com/79428800/188197298-3dac9d12-a0a9-4a68-baa5-719ada758b31.png)
 
-5.80 percent of  (1) fastingbs patients have heart disease.
+(fastingbs)5.80 percent of  (1) fastingbs patients have heart disease.
 
 
 
@@ -57,13 +57,13 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![RestingECG_Normal](https://user-images.githubusercontent.com/79428800/188200294-247dc2c4-1706-49e0-ab24-eda218ce93ee.png)
 
-6.For RestingECG is ST there's a 66% chance of heart disease.
+(restubgECG)6.For RestingECG is ST there's a 66% chance of heart disease.
 
 
 
 ![maxhr](https://user-images.githubusercontent.com/79428800/188197500-3aa76b48-dfb1-4eb5-9c7d-eb21910c2d4e.png)
 
-7. Higher value of MaxHR shows sign of healthy heart.
+(maxhr)7. Higher value of MaxHR shows sign of healthy heart.
 
 
 
@@ -73,13 +73,13 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![ExerciseAngina_Y](https://user-images.githubusercontent.com/79428800/188200466-d2d5fff2-d292-4de2-a0dc-8207b34e3d55.png)
 
-8.85 percent of (Y) exerciseangina patients have heart disease
+(exerciseAngina)8.85 percent of (Y) exerciseangina patients have heart disease
 
 
 
 ![oldpeak](https://user-images.githubusercontent.com/79428800/188198331-23854b70-8934-4cda-bb59-735b3cece611.png)
 
-9.Oldpeak and heart disease have a positive relationship; as old peak value increases, and heart disease incidence increases.
+(oldpeak)9.Oldpeak and heart disease have a positive relationship; as old peak value increases, and heart disease incidence increases.
 
 
 
@@ -91,7 +91,7 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![ST_Slope_Flat](https://user-images.githubusercontent.com/79428800/188200603-bc4b9968-bcb0-4fe1-af7e-0d3cfd46aab3.png)
 
-10.For ST_Slpoe of Flat and Down have high risk (i.e. 83% and 77% respectively) of heart disease whereas for ST_Slope of Up affection risk is low (20%)
+(st_slope)10.For ST_Slpoe of Flat and Down have high risk (i.e. 83% and 77% respectively) of heart disease whereas for ST_Slope of Up affection risk is low (20%)
 
 
 
