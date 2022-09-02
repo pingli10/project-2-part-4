@@ -53,7 +53,7 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![oldpeak](https://user-images.githubusercontent.com/79428800/188198331-23854b70-8934-4cda-bb59-735b3cece611.png)
 
-Oldpeak and heart disease have a positive relationship, old peak rate increases, and heartDisease rate increases.
+Oldpeak and heart disease have a positive relationship; as old peak value increases, and heart disease incidence increases.
 
 
 
