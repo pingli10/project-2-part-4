@@ -21,7 +21,7 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![sexpiemale](https://user-images.githubusercontent.com/79428800/188196368-ed905111-378c-4d43-8a33-f204b7736b78.png)
 
-2.Male is mainly affected by heart disease.
+2.Male is mainly affected by heart disease;63 percent of heart disease patients are male, and 26 percent of heart disease patients are female.
 
 
 ![chestpaintype](https://user-images.githubusercontent.com/79428800/188196639-4b3bdfa4-1505-4edf-a068-9b55dd15e8e0.png)
@@ -29,7 +29,7 @@ Our target is categorical value to determine whether the patience have heartDise
 ![ChestPainType_ASY](https://user-images.githubusercontent.com/79428800/188196684-33be1701-a3e3-44e8-a75e-b11b9ab517b3.png)
 
 3. Patients have asy chest pain and most likely have heart disease.
-80% patients with ASY chest pain have heart disease.
+80 percent of ASY chest pain patients have heart disease.
 
 
 ![cholesterol](https://user-images.githubusercontent.com/79428800/188196458-76780bdf-9625-4b3c-821b-07616ac58cfb.png)
@@ -43,19 +43,46 @@ Our target is categorical value to determine whether the patience have heartDise
 
 ![fastingbs1](https://user-images.githubusercontent.com/79428800/188197298-3dac9d12-a0a9-4a68-baa5-719ada758b31.png)
 
-5.80 percent patients with value 1 of fastingbs have heart disease.
+5.80 percent of  (1) fastingbs patients have heart disease.
+
+
+![restingECG](https://user-images.githubusercontent.com/79428800/188200263-b68c3e53-eade-4f06-ae5f-c96836254fdb.png)
+
+![RestingECG_LVH](https://user-images.githubusercontent.com/79428800/188200283-1a45a7fa-cf59-46c4-a41e-f04f9bf721f8.png)
+
+![RestingECG_Normal](https://user-images.githubusercontent.com/79428800/188200294-247dc2c4-1706-49e0-ab24-eda218ce93ee.png)
+
+6.For RestingECG is ST there's a 66% chance of heart disease.
+
+
+![exerciseangina](https://user-images.githubusercontent.com/79428800/188200427-9bae6cd0-a69d-4805-844c-a2feee0cbed0.png)
+
+![ExerciseAngina_N](https://user-images.githubusercontent.com/79428800/188200446-496948f2-868e-43ab-84c5-03576e66a11c.png)
+
+![ExerciseAngina_Y](https://user-images.githubusercontent.com/79428800/188200466-d2d5fff2-d292-4de2-a0dc-8207b34e3d55.png)
+
+7.85 percent of (Y) exerciseangina patients have heart disease
 
 
 ![maxhr](https://user-images.githubusercontent.com/79428800/188197500-3aa76b48-dfb1-4eb5-9c7d-eb21910c2d4e.png)
 
-6. Higher value of MaxHR shows sign of healthy heart.
+8. Higher value of MaxHR shows sign of healthy heart.
 
 
 ![oldpeak](https://user-images.githubusercontent.com/79428800/188198331-23854b70-8934-4cda-bb59-735b3cece611.png)
 
-Oldpeak and heart disease have a positive relationship; as old peak value increases, and heart disease incidence increases.
+9.Oldpeak and heart disease have a positive relationship; as old peak value increases, and heart disease incidence increases.
 
 
+![st_slope](https://user-images.githubusercontent.com/79428800/188200585-01a7783c-bcc5-48e0-91a3-ef321d08248d.png)
+
+![ST_Slope_Down](https://user-images.githubusercontent.com/79428800/188200595-2e2cc448-7577-45ea-baab-7587e6906736.png)
+
+![ST_Slope_up](https://user-images.githubusercontent.com/79428800/188200612-3f2408d4-2fb7-4e58-bebd-3f75097f1372.png)
+
+![ST_Slope_Flat](https://user-images.githubusercontent.com/79428800/188200603-bc4b9968-bcb0-4fe1-af7e-0d3cfd46aab3.png)
+
+10.For ST_Slpoe of Flat and Down have high risk (i.e. 83% and 77% respectively) of heart disease whereas for ST_Slope of Up affection risk is low (20%)
 
 
 
